@@ -1,0 +1,2 @@
+# determinacion-de-horoscopo
+Elaborar una aplicación de línea de comandos en C diseñada para determinar el horóscopo, y predecir el futuro de un usuario basado en la fecha de nacimiento, nombre y sexo. Esta aplicación deberá determinar tu signo zodiacal, y predecir cómo será el futuro, cómo estará de salud, qué pasará con las relaciones, cuáles son tu número y color de la suerte. Estas predicciones y cálculos se basarán en la configuración astrológica que ocurrió al momento de la fecha de nacimiento provista por el usuario.
